@@ -20,4 +20,7 @@ let author = "Matt Galloway"
 let authorIsReader = reader == author
 
 //: * Create a constant named `readerBeforeAuthor` which uses string comparison to determine if `reader` comes before `author`.
+
 let readerBeforeAuthor = reader < author
+
+//: [Next](@next)
