@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true'>
+    <pages>
+        <page name='challenge-01'/>
+        <page name='challenge-02'/>
+        <page name='challenge-03'/>
+        <page name='challenge-04'/>
+        <page name='challenge-05'/>
+        <page name='challenge-06'/>
+        <page name='challenge-07'/>
+        <page name='challenge-08'/>
+        <page name='challenge-09'/>
+    </pages>
+</playground>
